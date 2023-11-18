@@ -1,3 +1,4 @@
 .gsvenv
 key.json
 test*.*
+.streamlit
